@@ -1,0 +1,17 @@
+{
+  "name": "axio",
+  "version": "1.0.0",
+  "description": "axio data sync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "bee-queue": "^1.2.2",
+    "firebase-admin": "^5.8.1",
+    "node-localstorage": "^1.3.0"
+  }
+}

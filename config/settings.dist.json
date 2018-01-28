@@ -1,0 +1,7 @@
+{
+  "help": "copy to file /config/settings.json",
+  "unsplash_key": "__put unsplash key here__",
+  "per_page": 30,
+  "firebase_db_url": "https://unsplash-datasync.firebaseio.com",
+  "unsplash_base_url": "https://api.unsplash.com"
+}
